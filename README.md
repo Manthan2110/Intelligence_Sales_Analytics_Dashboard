@@ -7,6 +7,10 @@ A sleek, interactive **Streamlit dashboard** that turns boring Excel rows from W
 
 Think of it as your personal Walmart data detective... with pretty charts!
 
+## Implementation FLow
+![State Transition Diagram (2)](https://github.com/user-attachments/assets/977e954f-2262-4084-8c05-360facbafd07)
+
+
 
 ## 🎯 Key Features
 
