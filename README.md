@@ -52,16 +52,6 @@ Think of it as your personal Walmart data detective... with pretty charts!
 
 ---
 
-## 📁 Folder Structure
-.
-├── app.py
-├── pages/
-├── assets/
-├── utils/
-├── requirements.txt
-├── README.md
-└── .streamlit/
-
 ## 🛠️ Tech Stack
 
 - **Language:** Python 3.x  
