@@ -49,9 +49,18 @@ Think of it as your personal Walmart data detective... with pretty charts!
 - Politely logs the user out  
 - May include a cat gif if you're lucky  
 
----
 
 ---
+
+## 📁 Folder Structure
+.
+├── app.py
+├── pages/
+├── assets/
+├── utils/
+├── requirements.txt
+├── README.md
+└── .streamlit/
 
 ## 🛠️ Tech Stack
 
