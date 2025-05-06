@@ -8,7 +8,7 @@ A sleek, interactive **Streamlit dashboard** that turns boring Excel rows from W
 Think of it as your personal Walmart data detective... with pretty charts!
 
 ## Implementation FLow
-![State Transition Diagram (2)](https://github.com/user-attachments/assets/2f0e56aa-8b6d-4ffd-b823-f3ff3f01caf9)
+![ChatGPT Image May 6, 2025, 01_06_01 PM](https://github.com/user-attachments/assets/3eae48bf-d3bc-4a89-9174-c2888854f047)
 
 ## 🎯 Key Features
 
